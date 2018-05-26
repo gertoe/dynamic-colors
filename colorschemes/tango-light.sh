@@ -1,4 +1,4 @@
-                   # SOLARIZED HEX     16/8 TERMCOL   L*A*B     
+                   # SOLARIZED HEX     16/8 TERMCOL   L*A*B
                    # --------- ------- ---- --------- ----------
  base03="#262626"  # base03    #262626  8/4 brblack   15  00  00
  base02="#303030"  # base02    #303030  0/4 black     20  00  00
@@ -17,13 +17,13 @@ magenta="#d33682"  # magenta   #d33682  5/5 magenta   50  65 -05
    cyan="#2aa198"  # cyan      #2aa198  6/6 cyan      60 -35 -05
   green="#859900"  # green     #859900  2/2 green     60 -20  65
 
-background="#000000"
-foreground="#ffffff"
-cursor="#ffffff"
-mouse_background="#000000"
-mouse_foreground="#ffffff"
+background="#ffffff"
+foreground="#000000"
+cursor="$base01"
+mouse_background="$base2"
+mouse_foreground="$base01"
 highlight="#fcaf3e"
-border="#000000"
+border="$base3"
 
  color0="#2E3436"  # black
  color8="#555753"  # brblack

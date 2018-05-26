@@ -17,34 +17,38 @@ magenta="#d33682"  # magenta   #d33682  5/5 magenta   50  65 -05
    cyan="#2aa198"  # cyan      #2aa198  6/6 cyan      60 -35 -05
   green="#859900"  # green     #859900  2/2 green     60 -20  65
 
-background="#000000"
+background="#151515"
+#background="rgba(21, 21, 21, 0.84)"
+
+# special
 foreground="#ffffff"
+foreground_bold="#ffffff"
 cursor="#ffffff"
-mouse_background="#000000"
-mouse_foreground="#ffffff"
-highlight="#fcaf3e"
-border="#000000"
+mouse_background="$base02"
+mouse_foreground="$base1"
+highlight="$base02"
+border="$base03"
 
- color0="#2E3436"  # black
- color8="#555753"  # brblack
+ color0="#252525"  # black
+ color8="#252525"  # brblack
 
- color1="#CC0000"  # red
- color9="#EF2929"  # brred
+ color1="#F8F8F8"  # red
+ color9="#F8F8F8"  # brred
 
- color2="#4E9A06"   # green
-color10="#8AE234"  # brgreen
+ color2="#0084FF"   # green
+color10="#0084FF"  # brgreen
 
- color3="#C4A000"  # yellow
-color11="#FCE94F"  # bryellow
+ color3="#F7F7F7"  # yellow
+color11="#F7F7F7"  # bryellow
 
- color4="#3465A4"    # blue
-color12="#729FCF"   # brblue
+ color4="#606060"    # blue
+color12="#606060"   # brblue
 
- color5="#75507B" # magenta
-color13="#AD7FA8"  # brmagenta
+ color5="#0084FF" # magenta
+color13="#0084FF"  # brmagenta
 
- color6="#06989A"    # cyan
-color14="#34E2E2"   # brcyan
+ color6="#E2E2E2"    # cyan
+color14="#E2E2E2"   # brcyan
 
- color7="#D3D7CF"   # white
-color15="#EEEEEC"   # brwhite
+ color7="#FFFFFF"   # white
+color15="#FFFFFF"   # brwhite

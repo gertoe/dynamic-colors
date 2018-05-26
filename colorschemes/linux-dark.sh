@@ -18,33 +18,33 @@ magenta="#d33682"  # magenta   #d33682  5/5 magenta   50  65 -05
   green="#859900"  # green     #859900  2/2 green     60 -20  65
 
 background="#000000"
-foreground="#ffffff"
+foreground="#B2B2B2"
 cursor="#ffffff"
 mouse_background="#000000"
 mouse_foreground="#ffffff"
-highlight="#fcaf3e"
+highlight="#ffffff"
 border="#000000"
 
- color0="#2E3436"  # black
- color8="#555753"  # brblack
+ color0="#000000"  # black
+ color8="#686868"  # brblack
 
- color1="#CC0000"  # red
- color9="#EF2929"  # brred
+ color1="#B21818"  # red
+ color9="#FF5454"  # brred
 
- color2="#4E9A06"   # green
-color10="#8AE234"  # brgreen
+ color2="#18B218"   # green
+color10="#54FF54"  # brgreen
 
- color3="#C4A000"  # yellow
-color11="#FCE94F"  # bryellow
+ color3="#B26818"  # yellow
+color11="#FFFF54"  # bryellow
 
- color4="#3465A4"    # blue
-color12="#729FCF"   # brblue
+ color4="#1818B2"    # blue
+color12="#5454FF"   # brblue
 
- color5="#75507B" # magenta
-color13="#AD7FA8"  # brmagenta
+ color5="#B218B2" # magenta
+color13="#FF54FF"  # brmagenta
 
- color6="#06989A"    # cyan
-color14="#34E2E2"   # brcyan
+ color6="#18B2B2"    # cyan
+color14="#54FFFF"   # brcyan
 
- color7="#D3D7CF"   # white
-color15="#EEEEEC"   # brwhite
+ color7="#B2B2B2"   # white
+color15="#FFFFFF"   # brwhite
