@@ -38,8 +38,8 @@ change_color () {
     send_osc 13 "$2" ;;
   mouse_background)
     send_osc 14 "$2" ;;
-  highlight)
-    send_osc 17 "$2" ;;
+  #highlight)
+  #  send_osc 17 "$2" ;;
   border)
     send_osc 708 "$2" ;;
   esac
